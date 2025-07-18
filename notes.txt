@@ -1,0 +1,21 @@
+Linux Day 2 Practice
+
+Bash scripting basics
+
+echo, mkdir, cd, touch, >>, ls -l
+
+Script permissions
+
+Made script executable using chmod +x
+
+Script debugging
+
+Handled common errors like:
+
+Wrong shebang #!bin/bash ➝ should be #!/bin/bash
+
+CRLF line endings from Windows ➝ fixed with dos2unix
+
+Using sudo ./script.sh
+
+Understood how shell finds and executes your script
